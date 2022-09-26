@@ -1,6 +1,6 @@
 # CPNT 260 Assignment 1: Text column
 Author: Tony Grimes
-Live site: []()
+Live site: [sait-wbdv.github.io/spoilers-cpnt260-a1-f22](https://sait-wbdv.github.io/spoilers-cpnt260-a1-f22)
 
 ## Above and Beyond
 I chose the following
