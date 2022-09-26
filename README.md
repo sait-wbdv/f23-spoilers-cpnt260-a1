@@ -10,6 +10,7 @@ I chose the following
     - See lines 54-57 in `index.html`
 
 ## Attributions
+- [sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter/) theme
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - [Google Fonts](https://fonts.google.com/)
     - [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
