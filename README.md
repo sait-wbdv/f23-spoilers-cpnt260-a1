@@ -5,9 +5,11 @@ Live site: [sait-wbdv.github.io/spoilers-cpnt260-a1-f22](https://sait-wbdv.githu
 ## Above and Beyond
 I chose the following
 - [Google Fonts](https://fonts.google.com/)
-    - See lines 8-11, 15 and 22 in `index.html`
+    - See lines 8-11, 15 and 27 in `index.html`
 - Nested list
-    - See lines 54-57 in `index.html`
+    - See lines 63-66 in `index.html`
+- Use of `clamp()`
+    - See line 21 in `index.html`
 
 ## Attributions
 - [sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter/) theme
