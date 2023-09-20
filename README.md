@@ -1,6 +1,6 @@
 # CPNT 260 Assignment 1: Text column
 Author: Tony Grimes
-Live site: [sait-wbdv.github.io/spoilers-cpnt260-a1-f22](https://sait-wbdv.github.io/spoilers-cpnt260-a1-f22)
+Live site: [sait-wbdv.github.io/f23-spoilers-cpnt260-a1](https://sait-wbdv.github.io/f23-spoilers-cpnt260-a1)
 
 ## Above and Beyond
 I chose the following
@@ -12,7 +12,6 @@ I chose the following
     - See line 21 in `index.html`
 
 ## Attributions
-- [sveltekit-blog-starter](https://github.com/josh-collinsworth/sveltekit-blog-starter/) theme
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/Guide)
 - [Google Fonts](https://fonts.google.com/)
     - [Bebas Neue](https://fonts.google.com/specimen/Bebas+Neue)
